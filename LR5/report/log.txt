@@ -1,0 +1,91 @@
+Task No 1
+Waiting time in the first line: 238
+Start time of processing in the first container (from the start of the program): 299
+Processing time in the first pipeline: 1881
+Secondary placement time (from the start of the program): 1149
+Waiting time in the second queue: 97
+Start time of processing in the second container (from the start of the program): 2284
+Processing time in the second pipeline: 5801
+Time of placing in the third stage (from the start of the program): 7921
+Waiting time in the third queue: 342
+Start time of processing in the third container (from the start of the program): 843
+rocessing time in the third pipeline: 578
+Processing end time (from the start of the program): 9012
+Minimum waiting time in the queue: 97
+Maximum waiting time in the queue: 342
+Average waiting time in queue: 225
+Task execution time: 8260
+----------------------------------------------------------------------------
+Task No 2
+Waiting time in the first line: 2114
+Start time of processing in the first container (from the start of the program): 2248
+Processing time in the first pipeline: 875
+Secondary placement time (from the start of the program): 3124
+Waiting time in the second queue: 5271
+Start time of processing in the second container (from the start of the program): 8396
+Processing time in the second pipeline: 4274
+Time of placing in the third stage (from the start of the program): 11594
+Waiting time in the third queue: 26
+Start time of processing in the third container (from the start of the program): 12698
+rocessing time in the third pipeline: 1551
+Processing end time (from the start of the program): 14253
+Minimum waiting time in the queue: 26
+Maximum waiting time in the queue: 5271
+Average waiting time in queue: 2470
+Task execution time: 6700
+----------------------------------------------------------------------------
+Task No 3
+Waiting time in the first line: 2995
+Start time of processing in the first container (from the start of the program): 3161
+Processing time in the first pipeline: 5108
+Secondary placement time (from the start of the program): 8269
+Waiting time in the second queue: 4417
+Start time of processing in the second container (from the start of the program): 12687
+Processing time in the second pipeline: 3398
+Time of placing in the third stage (from the start of the program): 15495
+Waiting time in the third queue: 23
+Start time of processing in the third container (from the start of the program): 16111
+rocessing time in the third pipeline: 484
+Processing end time (from the start of the program): 16598
+Minimum waiting time in the queue: 23
+Maximum waiting time in the queue: 4417
+Average waiting time in queue: 2478
+Task execution time: 8990
+----------------------------------------------------------------------------
+Task No 4
+Waiting time in the first line: 8119
+Start time of processing in the first container (from the start of the program): 8315
+Processing time in the first pipeline: 1569
+Secondary placement time (from the start of the program): 9885
+Waiting time in the second queue: 6215
+Start time of processing in the second container (from the start of the program): 16101
+Processing time in the second pipeline: 3301
+Time of placing in the third stage (from the start of the program): 18548
+Waiting time in the third queue: 22
+Start time of processing in the third container (from the start of the program): 19412
+rocessing time in the third pipeline: 518
+Processing end time (from the start of the program): 19997
+Minimum waiting time in the queue: 22
+Maximum waiting time in the queue: 8119
+Average waiting time in queue: 4785
+Task execution time: 5388
+----------------------------------------------------------------------------
+Task No 5
+Waiting time in the first line: 9671
+Start time of processing in the first container (from the start of the program): 9896
+Processing time in the first pipeline: 3669
+Secondary placement time (from the start of the program): 13580
+Waiting time in the second queue: 5847
+Start time of processing in the second container (from the start of the program): 19427
+Processing time in the second pipeline: 2979
+Time of placing in the third stage (from the start of the program): 22426
+Waiting time in the third queue: 8
+Start time of processing in the third container (from the start of the program): 22436
+rocessing time in the third pipeline: 579
+Processing end time (from the start of the program): 23049
+Minimum waiting time in the queue: 8
+Maximum waiting time in the queue: 9671
+Average waiting time in queue: 5175
+Task execution time: 7227
+----------------------------------------------------------------------------
+System uptime: 23095
